@@ -50,8 +50,8 @@
 
 - 脚本说明: ShadowsocksR 一键安装管理脚本，支持单端口/多端口切换和管理
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: wget -N --no-check-certificate https://raw.githubusercontent.com/wxy1997/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
-- 项目地址: https://github.com/ToyoDAdoubi/shadowsocksr
+- 使用方法: wget -N --no-check-certificate https://raw.githubusercontent.com/wxy1997/ShadowsocksR/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
+
 
 #### 脚本特点:
 目前网上的各个ShadowsocksR脚本基本都是只有 安装/启动/重启 等基础功能，对于小白来说还是不够简单方便。既然是一键脚本，那么就要尽可能地简单，小白更容易接受使用！
@@ -67,16 +67,10 @@
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/wxy1997/ShadowsocksR/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 ```
 
 ---
-## ssrmu.sh
-
-- 脚本说明: ShadowsocksR 一键安装管理脚本，支持流量控制
-- 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/ss-jc60/
-- 项目地址: https://github.com/ToyoDAdoubi/shadowsocksr
 
 #### 脚本特点:
 目前网上的各个ShadowsocksR脚本基本都是只有 安装/启动/重启 等基础功能，对于小白来说还是不够简单方便。既然是一键脚本，那么就要尽可能地简单，小白更容易接受使用！
@@ -93,7 +87,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/wxy1997/ShadowsocksR/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
 ```
 
 ---
@@ -105,7 +99,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/brook.sh && chmod +x brook.sh && bash brook.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/wxy1997/ShadowsocksR/master/brook.sh && chmod +x brook.sh && bash brook.sh
 ```
 
 ---
