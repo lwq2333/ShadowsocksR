@@ -50,7 +50,7 @@
 
 - 脚本说明: ShadowsocksR 一键安装管理脚本，支持单端口/多端口切换和管理
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: wget -N --no-check-certificate https://raw.githubusercontent.com/wxy1997/ShadowsocksR/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
+- 使用方法: wget -N --no-check-certificate https://raw.githubusercontent.com/lwq2333/ShadowsocksR/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
 
 
 #### 脚本特点:
